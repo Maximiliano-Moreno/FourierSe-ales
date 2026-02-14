@@ -2,7 +2,7 @@
 """
 ANÁLISIS DE SEÑALES CON TRANSFORMADA DE FOURIER
 Versión para Python Online (Google Colab)
-Autor: [Tu Nombre]
+Autor: [Name]
 """
 
 import numpy as np
